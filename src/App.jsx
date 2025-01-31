@@ -3,7 +3,7 @@ import Home from "./Pages/Home";
 import CreatePoll from "./Pages/createPoll";
 import Poll from "./Pages/Poll";
 import Results from "./Pages/Results";
-import './styles/global.css';
+import "./styles";
 
 function App() {
   return (
