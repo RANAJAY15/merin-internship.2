@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Home from './pages/Home';
-import CreatePoll from './pages/CreatePoll';
-import Poll from './pages/Poll';
-import Results from './pages/Results';
+import Home from "./Pages/Home";
+import CreatePoll from "./Pages/createPoll";
+import Poll from "./Pages/Poll";
+import Results from "./Pages/Results";
 import './styles/global.css';
 
 function App() {
